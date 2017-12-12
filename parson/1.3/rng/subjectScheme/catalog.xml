@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+<!--Parson DITA Subject Scheme Map Shell-->
+
+   <group><!-- System ID (URL) catalog entries -->
+      <system systemId="urn:par:dita:rng:par_subjectScheme.rng:1.3"
+              uri="rng/par_subjectScheme.rng"/>
+      <system systemId="urn:par:dita:rng:par_subjectScheme.rng"
+              uri="rng/par_subjectScheme.rng"/>
+      <system systemId="urn:par:dita:rng:par_subjectSchemeConstraintMod.rng:1.3"
+              uri="rng/par_subjectSchemeConstraintMod.rng"/>
+      <system systemId="urn:par:dita:rng:par_subjectSchemeConstraintMod.rng"
+              uri="rng/par_subjectSchemeConstraintMod.rng"/>
+   </group>
+   <group><!-- Public ID (URN) catalog entries -->
+      <uri name="urn:par:dita:rng:par_subjectScheme.rng:1.3"
+           uri="rng/par_subjectScheme.rng"/>
+      <uri name="urn:par:dita:rng:par_subjectScheme.rng"
+           uri="rng/par_subjectScheme.rng"/>
+      <uri name="urn:par:dita:rng:par_subjectSchemeConstraintMod.rng:1.3"
+           uri="rng/par_subjectSchemeConstraintMod.rng"/>
+      <uri name="urn:par:dita:rng:par_subjectSchemeConstraintMod.rng"
+           uri="rng/par_subjectSchemeConstraintMod.rng"/>
+   </group>
+</catalog>

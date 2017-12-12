@@ -1,0 +1,50 @@
+Unable to locate tools.jar. Expected to find it in C:\Program Files\Java\jre1.8.0_151\lib\tools.jar
+Buildfile: H:\GitHub\dita-rng-converter\nakohdo\build.xml
+     [echo] catalogOutDir=parson
+
+init:
+     [echo] outdir=parson
+     [echo] catalogOutDir="parson"
+     [echo] saxonDir="C:\FranksProgramme\Oxygen XML Editor 19\lib"
+
+clean:
+
+generate-catalogs:
+     [java]  + [INFO] Parameters:
+     [java]       
+     [java]       debug              ="false"
+     [java]       ditaVersion        ="1.3"
+     [java]       outdir             ="H:\GitHub\dita-rng-converter\nakohdo\parson\1.3"
+     [java]       rootDir            ="file:/H:/DITA/RNG2DTD_Converter/rng2dtd/parson-rng/com.parson-europe.dita.rng/"
+     [java]       
+     [java]     
+     [java]  + [INFO] Preparing documents to process...
+     [java]  + [INFO] processDir: effectiveRootDir="file:/H:/DITA/RNG2DTD_Converter/rng2dtd/parson-rng/com.parson-europe.dita.rng/
+     [java]  + [INFO] Generating Catalogs...
+     [java]  + [INFO]   catalogType="all"...
+     [java]  + [INFO]   file:/H:/GitHub/dita-rng-converter/nakohdo/parson/1.3/catalog.xml
+     [java]  + [INFO]   file:/H:/GitHub/dita-rng-converter/nakohdo/parson/1.3/dtd/catalog.xml
+     [java]  + [INFO]   file:/H:/GitHub/dita-rng-converter/nakohdo/parson/1.3/dtd/base/catalog.xml
+     [java]  + [INFO]   file:/H:/GitHub/dita-rng-converter/nakohdo/parson/1.3/dtd/subjectScheme/catalog.xml
+     [java]  + [INFO]   file:/H:/GitHub/dita-rng-converter/nakohdo/parson/1.3/dtd/technicalContent/catalog.xml
+     [java]  + [INFO]   file:/H:/GitHub/dita-rng-converter/nakohdo/parson/1.3/rnc/catalog.xml
+     [java]  + [INFO]   file:/H:/GitHub/dita-rng-converter/nakohdo/parson/1.3/rnc/base/catalog.xml
+     [java]  + [INFO]   file:/H:/GitHub/dita-rng-converter/nakohdo/parson/1.3/rnc/subjectScheme/catalog.xml
+     [java]  + [INFO]   file:/H:/GitHub/dita-rng-converter/nakohdo/parson/1.3/rnc/technicalContent/catalog.xml
+     [java]  + [INFO]   file:/H:/GitHub/dita-rng-converter/nakohdo/parson/1.3/rng/catalog.xml
+     [java]  + [INFO]   file:/H:/GitHub/dita-rng-converter/nakohdo/parson/1.3/rng/base/catalog.xml
+     [java]  + [INFO]   file:/H:/GitHub/dita-rng-converter/nakohdo/parson/1.3/rng/subjectScheme/catalog.xml
+     [java]  + [INFO]   file:/H:/GitHub/dita-rng-converter/nakohdo/parson/1.3/rng/technicalContent/catalog.xml
+     [java]  + [INFO]   file:/H:/GitHub/dita-rng-converter/nakohdo/parson/1.3/schema/catalog.xml
+     [java]  + [INFO]   file:/H:/GitHub/dita-rng-converter/nakohdo/parson/1.3/schema/base/catalog.xml
+     [java]  + [INFO]   file:/H:/GitHub/dita-rng-converter/nakohdo/parson/1.3/schema/subjectScheme/catalog.xml
+     [java]  + [INFO]   file:/H:/GitHub/dita-rng-converter/nakohdo/parson/1.3/schema/technicalContent/catalog.xml
+     [java]  + [INFO]   file:/H:/GitHub/dita-rng-converter/nakohdo/parson/1.3/schema-url/catalog.xml
+     [java]  + [INFO]   file:/H:/GitHub/dita-rng-converter/nakohdo/parson/1.3/schema-url/base/catalog.xml
+     [java]  + [INFO]   file:/H:/GitHub/dita-rng-converter/nakohdo/parson/1.3/schema-url/subjectScheme/catalog.xml
+     [java]  + [INFO]   file:/H:/GitHub/dita-rng-converter/nakohdo/parson/1.3/schema-url/technicalContent/catalog.xml
+     [java]  + [INFO] generateCatalog(): Catalogs generated.
+     [java]  + [INFO] Done.
+
+BUILD SUCCESSFUL
+Total time: 11 seconds

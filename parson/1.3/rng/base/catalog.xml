@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+<!--parson DITA Common Elements Constraint Module for Maps-->
+
+   <group><!-- System ID (URL) catalog entries -->
+      <system systemId="urn:par:dita:rng:par_commonMapConstraintMod.rng:1.3"
+              uri="rng/par_commonMapConstraintMod.rng"/>
+      <system systemId="urn:par:dita:rng:par_commonMapConstraintMod.rng"
+              uri="rng/par_commonMapConstraintMod.rng"/>
+      <system systemId="urn:par:dita:rng:par_commonTopicsConstraintMod.rng:1.3"
+              uri="rng/par_commonTopicsConstraintMod.rng"/>
+      <system systemId="urn:par:dita:rng:par_commonTopicsConstraintMod.rng"
+              uri="rng/par_commonTopicsConstraintMod.rng"/>
+      <system systemId="urn:par:dita:rng:par_ditavalrefDomainConstraint.rng:1.3"
+              uri="rng/par_ditavalrefDomainConstraint.rng"/>
+      <system systemId="urn:par:dita:rng:par_ditavalrefDomainConstraint.rng"
+              uri="rng/par_ditavalrefDomainConstraint.rng"/>
+      <system systemId="urn:par:dita:rng:par_hazardstatementDomainConstraint.rng:1.3"
+              uri="rng/par_hazardstatementDomainConstraint.rng"/>
+      <system systemId="urn:par:dita:rng:par_hazardstatementDomainConstraint.rng"
+              uri="rng/par_hazardstatementDomainConstraint.rng"/>
+      <system systemId="urn:par:dita:rng:par_highlightDomainConstraint.rng:1.3"
+              uri="rng/par_highlightDomainConstraint.rng"/>
+      <system systemId="urn:par:dita:rng:par_highlightDomainConstraint.rng"
+              uri="rng/par_highlightDomainConstraint.rng"/>
+      <system systemId="urn:par:dita:rng:par_indexingDomainConstraint.rng:1.3"
+              uri="rng/par_indexingDomainConstraint.rng"/>
+      <system systemId="urn:par:dita:rng:par_indexingDomainConstraint.rng"
+              uri="rng/par_indexingDomainConstraint.rng"/>
+      <system systemId="urn:par:dita:rng:par_mapConstraintMod.rng:1.3"
+              uri="rng/par_mapConstraintMod.rng"/>
+      <system systemId="urn:par:dita:rng:par_mapConstraintMod.rng"
+              uri="rng/par_mapConstraintMod.rng"/>
+      <system systemId="urn:par:dita:rng:par_mapGroupDomainConstraint.rng:1.3"
+              uri="rng/par_mapGroupDomainConstraint.rng"/>
+      <system systemId="urn:par:dita:rng:par_mapGroupDomainConstraint.rng"
+              uri="rng/par_mapGroupDomainConstraint.rng"/>
+      <system systemId="urn:par:dita:rng:par_topicConstraintMod.rng:1.3"
+              uri="rng/par_topicConstraintMod.rng"/>
+      <system systemId="urn:par:dita:rng:par_topicConstraintMod.rng"
+              uri="rng/par_topicConstraintMod.rng"/>
+      <system systemId="urn:par:dita:rng:utilitiesDomain.rng:1.3"
+              uri="rng/par_utilitiesDomainConstraint.rng"/>
+      <system systemId="urn:par:dita:rng:utilitiesDomain.rng"
+              uri="rng/par_utilitiesDomainConstraint.rng"/>
+   </group>
+   <group><!-- Public ID (URN) catalog entries -->
+      <uri name="urn:par:dita:rng:par_commonMapConstraintMod.rng:1.3"
+           uri="rng/par_commonMapConstraintMod.rng"/>
+      <uri name="urn:par:dita:rng:par_commonMapConstraintMod.rng"
+           uri="rng/par_commonMapConstraintMod.rng"/>
+      <uri name="urn:par:dita:rng:par_commonTopicsConstraintMod.rng:1.3"
+           uri="rng/par_commonTopicsConstraintMod.rng"/>
+      <uri name="urn:par:dita:rng:par_commonTopicsConstraintMod.rng"
+           uri="rng/par_commonTopicsConstraintMod.rng"/>
+      <uri name="urn:par:dita:rng:par_ditavalrefDomainConstraint.rng:1.3"
+           uri="rng/par_ditavalrefDomainConstraint.rng"/>
+      <uri name="urn:par:dita:rng:par_ditavalrefDomainConstraint.rng"
+           uri="rng/par_ditavalrefDomainConstraint.rng"/>
+      <uri name="urn:par:dita:rng:par_hazardstatementDomainConstraint.rng:1.3"
+           uri="rng/par_hazardstatementDomainConstraint.rng"/>
+      <uri name="urn:par:dita:rng:par_hazardstatementDomainConstraint.rng"
+           uri="rng/par_hazardstatementDomainConstraint.rng"/>
+      <uri name="urn:par:dita:rng:par_highlightDomainConstraint.rng:1.3"
+           uri="rng/par_highlightDomainConstraint.rng"/>
+      <uri name="urn:par:dita:rng:par_highlightDomainConstraint.rng"
+           uri="rng/par_highlightDomainConstraint.rng"/>
+      <uri name="urn:par:dita:rng:par_indexingDomainConstraint.rng:1.3"
+           uri="rng/par_indexingDomainConstraint.rng"/>
+      <uri name="urn:par:dita:rng:par_indexingDomainConstraint.rng"
+           uri="rng/par_indexingDomainConstraint.rng"/>
+      <uri name="urn:par:dita:rng:par_mapConstraintMod.rng:1.3"
+           uri="rng/par_mapConstraintMod.rng"/>
+      <uri name="urn:par:dita:rng:par_mapConstraintMod.rng"
+           uri="rng/par_mapConstraintMod.rng"/>
+      <uri name="urn:par:dita:rng:par_mapGroupDomainConstraint.rng:1.3"
+           uri="rng/par_mapGroupDomainConstraint.rng"/>
+      <uri name="urn:par:dita:rng:par_mapGroupDomainConstraint.rng"
+           uri="rng/par_mapGroupDomainConstraint.rng"/>
+      <uri name="urn:par:dita:rng:par_topicConstraintMod.rng:1.3"
+           uri="rng/par_topicConstraintMod.rng"/>
+      <uri name="urn:par:dita:rng:par_topicConstraintMod.rng"
+           uri="rng/par_topicConstraintMod.rng"/>
+      <uri name="urn:par:dita:rng:utilitiesDomain.rng:1.3"
+           uri="rng/par_utilitiesDomainConstraint.rng"/>
+      <uri name="urn:par:dita:rng:utilitiesDomain.rng"
+           uri="rng/par_utilitiesDomainConstraint.rng"/>
+   </group>
+</catalog>
